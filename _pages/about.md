@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Daniel Anadria's Personal Website"
+excerpt: "Ezekiel Unwana's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,9 +12,9 @@ redirect_from:
 Hi! 👋 
 ======
 
-My name is Daniel Anadria and I am a PhD candidate at Utrecht University's Department of Methodology and Statistics / Public Values in the Algorithmic Society (AlgoSoc) Consortium.
+My name is Unwana Friday Ezekiel, I am a rising process engineer in the final year of Msc. Chemical Engineering at Politecnico Di Milan. 
 
-I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing (NLP). My research will concern fairness of NLP-supported clinical decision-making process in healthcare.
+
 
 
 <!-- I am a rising statistician and a data scientist in the final year 
@@ -30,17 +30,18 @@ This is reflected in my side projects which I greatly enjoy:
 
 My interests involve:
 
-- Natural Language Processing & Text-Mining
-- Algorithmic Fairness & Explainable AI (XAI)
-- Feature Attribution & Feature Selection
-- Deep Learning
-- Latent Class Analysis & Structural Equation Modeling
+- Green Technology 
+- Process Optimization
+- Fluid Dynamics
+- Process Design
+- Sustainable Chemical Plant Management
+- PFD and P&ID
+
 
 I am a affiliated with:
 
-- [AlgoSoc Consortium](https://algosoc.org/){:target="_blank" rel="noopener"}
-- [M&S NLP Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
-- [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
+- [Laboratory of Catalysis and Catalytic Processes](https://www.lccp.polimi.it/){:target="_blank" rel="noopener"}
+- [Luca Lietti's Lab](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=evento&k_doc=90963&aa=2009&lang=IT&jaf_currentWFID=main/){:target="_blank" rel="noopener"}
 
 
 What's new?
