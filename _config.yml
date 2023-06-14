@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Anadria"
+title                    : "Unwana Friday Ezekiel"
 title_separator          : "|"
-name                     : &name "Daniel Anadria"
-description              : &description "Daniel Anadria's Personal Website"
-url                      : https://danadria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Unwana Friday Ezekiel"
+description              : &description "Unwana's Personal Website"
+url                      : https://ezikunwana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "danadria/danadria.github.io"
+repository               : "ezikunwana/ezikunwana.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Anadria"
+  name             : "Unwana Friday Ezekiel"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate at Utrecht University"
-  location         : "Utrecht, NL 🇳🇱"
-  employer         : #"Department of Methodology and Statistics, Utrecht University"
+  bio              : "Msc. Chemical Engineering Student"
+  location         : "Milan, IT"
+  employer         : #"Department of Chemical Engineering, Politecnico Di Milano"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=E5wiCxMAAAAJ"
-  email            : "d.anadria@uu.nl"
-  researchgate     : "https://www.researchgate.net/profile/Daniel-Anadria"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=E5wiCxMAAAAJ"
+  email            : "unwanafriday.ezekiel@mail.polimi.it"
+  researchgate     : #"https://www.researchgate.net/profile/Daniel-Anadria"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "danadria"
+  github           : "Ezikunwana"
   google_plus      :
   keybase          :
   instagram        :
